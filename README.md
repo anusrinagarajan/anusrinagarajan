@@ -1,5 +1,5 @@
 👋 Hi, I'm Anusri!
-🎓 Sophomore at San Jose State University, studying Data Science
+Rising sophomore at San Jose State University, studying Data Science
 
 Right now, I'm involved in Adversarial AI research, consulting for Praxis AI, and growing my interpersonal skills as a national member of Society of Women Engineers, a Mozilla Intern of Responsible Computing Club, and an Outreach Specialist of Marketing Association. I've explored industry through an IBM externship, attending conferences such as SDLC and SPIE Photonics West, and pursuing projects that bring together curiosity, problem-solving, and real-world impact. 
 
