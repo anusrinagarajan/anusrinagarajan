@@ -18,6 +18,8 @@ Tools: Google Colab, GitHub
 
 🚀 Projects: Coming soon! 
 
+📊 GitHub Stats: Coming soon!
+
 ✨ Fun Facts:
 Beyond academia, you'll find me: 🎹 🎧 🎤 🎶 🧩 🪴🌲 🌅 📷 🔭 🌘 ⭐️ 📚 📝. I believe that every musical note, every turn of a page, and every step drives creativity, which is at the heart of my ambition. 
 
