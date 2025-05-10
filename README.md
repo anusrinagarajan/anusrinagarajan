@@ -6,13 +6,13 @@ My dream? To make an impact. A big one. And that starts with empowering others, 
 
 Passionate about AI, research, or space? Let's connect! 💫
 
-📫 How to Reach Me:
+### 📫 How to Reach Me:
 
 Email: nagarajananusri@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/anusri-nagarajan/
+[LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/)
 
-🛠 Tech Stack:
+### 🛠 Tech Stack:
 
 Languages: Python, Java
 
@@ -22,11 +22,12 @@ Web Dev: HTML, CSS, JavaScript
 
 Tools: Google Colab, GitHub
 
-🚀 Projects: Coming soon! 
+### 🚀 Projects: Coming soon! 
 
-📊 GitHub Stats: Coming soon!
+### 📊 GitHub Stats: Coming soon!
 
-✨ Fun Facts:
+### ✨ Fun Facts:
+
 Beyond academia, you'll find me: 🎹 🎧 🎤 🎶 🧩 🪴🌲 🌅 📷 🔭 🌘 ⭐️ 📚 📝. I believe that every musical note, every turn of a page, and every step drives creativity, which is at the heart of my ambition. 
 
 ![Anusri's Headshot](https://github.com/user-attachments/assets/798a5b76-a015-41a4-9c33-fcf4f47695a5)
