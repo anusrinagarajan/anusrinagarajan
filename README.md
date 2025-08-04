@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anusri!
 
-As a rising sophomore studying Data Science at San Jose State Universtity, I'm involved in Adversarial Artificial Intelligence research, consulting for Praxis AI, and growing my interpersonal skills as a national member and technical chair of Society of Women Engineers, a Mozilla Intern of Responsible Computing Club, and an Outreach Specialist of Marketing Association. I've explored industry through an IBM externship, attending conferences such as SDLC and SPIE Photonics West, and pursuing projects that bring together curiosity, problem-solving, and real-world impact. 
+As a rising sophomore studying Data Science at San Jose State Universtity, I'm currently growing my interpersonal and technical skills as an Adversarial AI researcher at SJSU MICoSys Lab, a Technical Chair for SJSU Society of Women Engineers, an AI/ML Fellow at Break Through Tech AI. I've previously explored industry as an AI/ML Intern at Google Cloud, an IBM extern, a consultant for Praxis AI, and by pursuing projects that bring together curiosity, problem-solving, and real-world impact.
 
 My dream? To make an impact. A big one. And that starts with empowering others, sharing knowledge, and building solutions that matter. 
 
