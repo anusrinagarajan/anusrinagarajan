@@ -18,7 +18,7 @@ Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 
 Web Dev: HTML, CSS, JavaScript
 
-Tools: Google Colab, GitHub
+Tools: Google Colab, Git
 
 #### 🚀 Projects: Coming soon! 
 
