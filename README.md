@@ -8,7 +8,8 @@ Passionate about AI, research, or space? Let's connect! 💫
 
 #### 📫 How to Reach Me:
 
-Email: nagarajananusri@gmail.com, [LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/)
+Email: nagarajananusri@gmail.com
+LinkedIn: https://www.linkedin.com/in/anusri-nagarajan/
 
 #### 🛠 Tech Stack:
 
@@ -20,7 +21,7 @@ Web Dev: HTML, CSS, JavaScript
 
 Tools: Google Colab, Git
 
-#### 🚀 Projects: Coming soon! 
+#### 🚀 Featured Projects: Coming soon! 
 
 #### 📊 GitHub Stats: Coming soon!
 
