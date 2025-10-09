@@ -23,7 +23,7 @@ Web Dev: HTML, CSS, JavaScript
 
 AI/ML: Machine Learning, Deep Learning, Neural Networks, Large Language Models (LLMs), Adversarial AI, Agentic AI, Generative AI, Feature Engineering, Data Processing, Model Selection, TensorFlow
 
-Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express
+Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express, Canva
 
 
 #### 🚀 Featured Projects: Coming soon! 
