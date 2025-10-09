@@ -25,9 +25,6 @@ AI/ML: Machine Learning, Deep Learning, Neural Networks, Large Language Models (
 
 Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express, Canva
 
-
-#### 🚀 Featured Projects: Coming soon! 
-
 #### 📊 GitHub Stats: Coming soon!
 
 #### ✨ Fun Facts:
