@@ -19,11 +19,12 @@ LinkedIn: https://www.linkedin.com/in/anusri-nagarajan/
 
 Languages: Python, Java
 
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-
 Web Dev: HTML, CSS, JavaScript
 
-Tools: Google Colab, Git
+AI/ML: Machine Learning, Deep Learning, Neural Networks, Large Language Models (LLMs), Adversarial AI, Agentic AI, Generative AI, Feature Engineering, Data Processing, Model Selection, TensorFlow
+
+Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express
+
 
 #### 🚀 Featured Projects: Coming soon! 
 
