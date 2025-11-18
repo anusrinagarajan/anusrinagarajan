@@ -8,8 +8,6 @@ Currently, I'm growing my interpersonal and technical skills as an Adversarial A
 
 My dream? To make an impact. A big one. And that starts with empowering others, sharing knowledge, and building solutions that matter. 
 
-Passionate about AI, research, or space? Let's connect! 💫
-
 #### 📫 How to Reach Me:
 
 Email: nagarajananusri@gmail.com
