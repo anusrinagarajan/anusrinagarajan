@@ -22,7 +22,3 @@ Web Dev: HTML, CSS, JavaScript
 AI/ML: Machine Learning, Deep Learning, Neural Networks, Large Language Models (LLMs), Adversarial AI, Agentic AI, Generative AI, Feature Engineering, Data Processing, Model Selection, TensorFlow
 
 Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express, Canva
-
-#### ✨ Fun Facts:
-
-Beyond academia, you'll find me: 🎹 🎧 🎤 🎶 🧩 🪴🌲 🌅 📷 🔭 🌘 ⭐️ 📚 📝. I believe that every musical note, every turn of a page, and every step drives creativity, which is at the heart of my ambition. 
