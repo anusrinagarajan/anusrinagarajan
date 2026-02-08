@@ -2,23 +2,42 @@
 
 Hi there! 
 
-I'm Anusri, a second-year Data Science student at San Jose State University!
+I'm Anusri, a sophomore (junior-standing) Data Science student at San Jose State University!
 
-Currently, I'm growing my interpersonal and technical skills as an Adversarial AI researcher at SJSU MICoSys Lab, a Technical Chair for SJSU Society of Women Engineers, and an AI/ML Fellow at Salesforce in collaboration with Break Through Tech AI. I've previously explored industry as an AI/ML Intern at Google Cloud, an IBM extern, a consultant for Praxis AI, and by pursuing projects that bring together curiosity, problem-solving, and real-world impact.
 
-My dream? To make an impact. A big one. And that starts with empowering others, sharing knowledge, and building solutions that matter. 
+---
 
-#### 📫 How to Reach Me:
+### 🛠 Tech Stack
 
-Email: nagarajananusri@gmail.com
-LinkedIn: https://www.linkedin.com/in/anusri-nagarajan/
+Languages: Python, Java, HTML, CSS, JavaScript, SQL
 
-#### 🛠 Tech Stack:
+AI/ML: Machine Learning, Deep Learning, Adversarial AI, Agentic AI, Generative AI, Neural Networks, Large Language Models (LLMs), Data Processing, Feature Engineering, Model Selection, Model Training, Model Optimization
 
-Languages: Python, Java
+Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express, Canva, Figma, Jira, Tableau
 
-Web Dev: HTML, CSS, JavaScript
+---
 
-AI/ML: Machine Learning, Deep Learning, Neural Networks, Large Language Models (LLMs), Adversarial AI, Agentic AI, Generative AI, Feature Engineering, Data Processing, Model Selection, TensorFlow
+### Featured Projects
 
-Tools & Platforms: Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Git, GitHub, Overleaf, Adobe Express, Canva
+**01. Multi-Agent Security System for Google Cloud Platform Projects** - [https://github.com/jasminetntu/multiagent-security-gcp]
+* Multi-agent system using Google ADK automates security scans across **25+** GCP products, cutting review time by **90%** *
+- **Stack:** Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Vertex AI, Python, JavaScript, Node.js, Generative AI, Agentic AI, Microservices, Google Cloud Run
+
+**02. Salesforce CRM AI Assistant** - [https://github.com/ishween/Team2A]
+* Engineered **8.8K+** records & integrated predictive models (**90%+** performance) into a conversational CRM workflow using AI agents *
+- Ranked **Top 3 out of 120** teams
+- **Stack:** Machine Learning, Python, Gradio, AI Agents, Data Processing, Model Selection, Model Training, Model Optimization, Notion
+
+**03. MediGuard: Medical Drug Interaction Predictor** - [https://github.com/scorpsj77/drug_interaction_prediction]
+* Predicted medical drug interactions across **222K+** combinations via a stacking ensemble, achieving **98% ROC AUC** *
+- **Stack:** Machine Learning, Deep Learning, Neural Networks, Python, HuggingFace, Gradio
+  
+**04. ClubHub** - [https://github.com/anusrinagarajan/ClubHub]
+* Full-stack web platform with SJSU account authentication to manage SJSU clubs and events, implementing role-based access for Users, Club Officers, and Admins *
+- Implemented CRUD operations on backend with schema constraints and indexing, improving query speed by **5×**
+- **Stack:** SQL, MySQL, HTML, CSS, JavaScript, Node.js, React, Typescript
+
+**05. Rent Affordability Analysis** - [https://github.com/CS133-DataVisualization/term-project-group10]
+* Analyzed rent affordability across **369** U.S. cities, performing feature engineering, data analysis, and visualizations *
+- Built and evaluated classification models achieving **97%** accuracy and identified renter income, income gap, and property tax as the most predictive features
+- **Stack:** Python, Pandas, Scikit-learn, Matplotlib, Plotly
