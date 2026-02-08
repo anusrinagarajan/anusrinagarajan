@@ -8,11 +8,11 @@
 
 ### 🛠 Tech Stack
 
-**💻 Languages** `Python` · `Java` · `HTML` · `CSS` · `JavaScript` · `SQL`
+**💻 Languages:** `Python` · `Java` · `HTML` · `CSS` · `JavaScript` · `SQL`
 
-**🧠 AI/ML Focus** `Deep Learning` · `Adversarial AI` · `Agentic AI` · `Generative AI` · `Neural Networks` · `LLMs` · `Data Processing` · `Feature Engineering`
+**🧠 AI/ML Focus:** `Deep Learning` · `Adversarial AI` · `Agentic AI` · `Generative AI` · `Neural Networks` · `LLMs` · `Data Processing` · `Feature Engineering`
 
-**☁️ Tools & Platforms** `Google Agent Development Kit (ADK)` · `Google Cloud Platform (GCP)` · `Git` · `Overleaf` · `Figma` · `Jira` · `Tableau`
+**☁️ Tools & Platforms:** `Google Agent Development Kit (ADK)` · `Google Cloud Platform (GCP)` · `Git` · `Overleaf` · `Figma` · `Jira` · `Tableau`
 
 ---
 
