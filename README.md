@@ -21,7 +21,7 @@
 **[01. Multi-Agent Security System for Google Cloud Platform Projects](https://github.com/jasminetntu/multiagent-security-gcp)**
 *Automates security scans for **25+** GCP products using Google ADK and refactored Cloudsploit repository*
 - **Result:** Reduced manual review time by **90%**
-- - **Stack:** Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Vertex AI, Python, JavaScript, Node.js, Generative AI, Agentic AI, Microservices, Google Cloud Run
+- **Stack:** Google Agent Development Kit (ADK), Google Cloud Platform (GCP), Vertex AI, Python, JavaScript, Node.js, Generative AI, Agentic AI, Microservices, Google Cloud Run
 
 **[02. Salesforce CRM AI Assistant](https://github.com/ishween/Team2A)**
 *Engineered **8.8K+** records & integrated predictive models (**90%+** performance) into a conversational CRM workflow using AI agents*
