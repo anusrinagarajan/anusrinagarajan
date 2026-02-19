@@ -48,4 +48,4 @@
 
 ---
 ### 📫 Connect with me!
-[LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/) · Email: (nagarajananusri@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/) · Email: nagarajananusri@gmail.com
