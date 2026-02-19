@@ -2,8 +2,6 @@
 
 **Data Science @ San Jose State University**
 
-*Sophomore by year, junior by standing, & passionate about AI/ML!*
-
 ---
 
 ### 🛠 Tech Stack
@@ -50,4 +48,4 @@
 
 ---
 ### 📫 Connect with me!
-[LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/) · [Email](nagarajananusri@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anusri-nagarajan/) · Email: (nagarajananusri@gmail.com)
